@@ -19,6 +19,8 @@ Currently written RFCs and POCs.
 * [Command Interface](doc/rfc/command.md) - The interface of the server-side component of rex.
 * [Resource](doc/rfc/resource.md) - How resources should work.
 * [Function](doc/rfc/function.md) - How functions should work.
+* [Inventory](doc/rfc/inventory.md) - How the inventory should work.
+
 
 
 
