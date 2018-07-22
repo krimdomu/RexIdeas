@@ -20,6 +20,8 @@ Currently written RFCs and POCs.
 * [Resource](doc/rfc/resource.md) - How resources should work.
 * [Function](doc/rfc/function.md) - How functions should work.
 * [Inventory](doc/rfc/inventory.md) - How the inventory should work.
+* [Rexfile](doc/rfc/rexfile.md) - Do i really need one?
+
 
 
 
