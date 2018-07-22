@@ -4,7 +4,9 @@ In Rex 1 the Rexfile is a file describing what tasks should run on which server 
 
 ## Thoughts
 
-Do i need a Rexfile written in perl? Or is itenough to have a simple file (ex. yaml format) which describes which task should run on which server?
+Do i need a Rexfile written in perl? Or is it enough to have a simple file (ex. yaml format) which describes which task should run on which server?
+
+Do we loose flexibility with this approach?
 
 ## Example
 
@@ -26,7 +28,6 @@ In the Rex Assemblies one defines which modules should run on which server and i
       tasks:
         - install
         - start_on_boot
-
 
 - name: prepare other systems
   servers:
