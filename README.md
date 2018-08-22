@@ -1,10 +1,6 @@
-# Rex 2.0
+# Rex Ideas
 
-This is the repository for development of Rex 2. 
-
-The intention of this repository is to develop Rex 2 in the public, so that we can consider all the ideas and needs of the community.
-
-Currently there is not much yet but it will be extended with ideas and example codes.
+These are some ideas which might be integrated in future rex releases.
 
 ## STATE
 
